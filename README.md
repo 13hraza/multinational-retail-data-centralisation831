@@ -18,3 +18,6 @@ In this Milestone a database was developed that allows you to correct the column
 
 ### Milestone_4 - 
 In this Milestone data was extracted using SQL and business querys were solved.  
+
+--- 
+In this Project we looked at ways to extract, clean and update data using databases, SQL and Pyton for a multinational company that sells various goods across the globe.
